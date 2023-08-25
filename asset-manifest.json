@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FrontendMentor-challenge-NewsletterSignupForm/static/css/main.821ab02d.css",
+    "main.js": "/FrontendMentor-challenge-NewsletterSignupForm/static/js/main.d578bf27.js",
+    "index.html": "/FrontendMentor-challenge-NewsletterSignupForm/index.html",
+    "main.821ab02d.css.map": "/FrontendMentor-challenge-NewsletterSignupForm/static/css/main.821ab02d.css.map",
+    "main.d578bf27.js.map": "/FrontendMentor-challenge-NewsletterSignupForm/static/js/main.d578bf27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.821ab02d.css",
+    "static/js/main.d578bf27.js"
+  ]
+}
